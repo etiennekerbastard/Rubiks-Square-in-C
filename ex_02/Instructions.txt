@@ -1,0 +1,7 @@
+Write three algorithm to play with your magic square :
+• algo_line, taking the table and the line number as parameter.
+This function must rotate this single line on the left.
+• algo_column, taking the table and the column number as parameter.
+This function must rotate this single column on the Top.
+• algo_square, taking the table and the square number as parameter.
+This function must rotate this single square Clockwise.

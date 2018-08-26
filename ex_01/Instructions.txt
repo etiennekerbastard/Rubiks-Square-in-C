@@ -1,0 +1,2 @@
+Write a function ’print_tab’ taking a pointer of pointer on integer as parameter and returning nothing. This parameter
+is a four columns by four rows table. You have to allocate it (with “malloc()”) in your main().

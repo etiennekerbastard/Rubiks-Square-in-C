@@ -1,0 +1,4 @@
+Write two similar functions ’is_in_col’ and ’is_in_line’.
+They are taking the table as first argument, the column/line number as second argument and the value you are looking
+for as the last argument.
+Your functions should return 0 if the given value is in the column/line, 1 otherwise.
